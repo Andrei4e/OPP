@@ -1,4 +1,4 @@
-package Seminar1;
+package HomeWork1;
 
 public class Childen extends Product{
     public int minAge;

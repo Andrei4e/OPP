@@ -1,4 +1,4 @@
-package Seminar1;
+package HomeWork1;
 
 public class Drink extends Product{
     public double volume;
